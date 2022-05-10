@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Dmeegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmeegh&show_icons=true&theme=radical)
+![Dmeegh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmeegh&show_icons=true)
 <!--
 **dmeegh/dmeegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
